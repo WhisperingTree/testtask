@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'pdotools',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e24a619603b59c6d54a61705fc8b407f',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7b7d6483cc9f1069bf55526dbb8d8b4c',
+  'native_key' => 'pdotools_fenom_parser',
+  'object' => '{"key":"pdotools_fenom_parser","value":false,"xtype":"combo-boolean","namespace":"pdotools","area":"pdotools_main","editedon":null}',
+);
