@@ -1,1 +1,0 @@
-[[+url:is=``:then=`[[+name]]`:else=`<a href="[[+url]]" rel="nofollow">[[+name]]</a>`]]

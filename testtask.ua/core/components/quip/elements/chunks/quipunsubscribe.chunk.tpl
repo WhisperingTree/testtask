@@ -1,1 +1,0 @@
-<a href="[[+unsubscribeUrl]]">[[%quip.unsubscribe_me]]</a>

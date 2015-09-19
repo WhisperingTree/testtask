@@ -1,1 +1,0 @@
-<li class="[[+cls]]"><a href="[[+url]]">[[+idx]]</a></li>

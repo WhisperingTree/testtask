@@ -1,1 +1,0 @@
-<div id="quip-panel-home-div"></div>
